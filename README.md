@@ -1,4 +1,4 @@
-# <h1 align="center"> Hey everyone!! Eja here, this is the repository of my projects 🤙🤙 </h1>
+# <h1 align="center"> Hey everyone!! Eja here, this is the repository of my projects 🤙 </h1>
 
 ### Tools :
 <p>
@@ -10,9 +10,9 @@
 
 ### Stats :
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zajs-dev&show_icons=true&theme=github_dark" height=200 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zajs-dev&theme=tokyonight_duo" height=200 />
+  <img src="https://github-readme-stats.vercel.app/api?username=zajs-git&show_icons=true&theme=github_dark" height=200 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zajs-git&theme=tokyonight_duo" height=200 />
 </p>
 
 ### Langue :
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zajs-dev&layout=compact&theme=tokyonight" height=200 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zajs-git&layout=compact&theme=tokyonight" height=200 />
