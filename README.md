@@ -6,16 +6,13 @@
   <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
   <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code" />
   <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-bottlegreen?&logo=android%20studio&logoColor=white" />
-  <img src="https://gpvc.arturio.dev/fhrzdty31" />
 </p>
 
 ### Stats :
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fhrzdty31&show_icons=true&theme=github_dark" height=200 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhrzdty31&theme=tokyonight_duo" height=200 />
-<!--   <br> -->
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=fhrzdty31&theme=react-dark" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zajs-dev&show_icons=true&theme=github_dark" height=200 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zajs-dev&theme=tokyonight_duo" height=200 />
 </p>
 
 ### Langue :
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight" height=200 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zajs-dev&layout=compact&theme=tokyonight" height=200 />
